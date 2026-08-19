@@ -1,0 +1,23 @@
+{
+  "app.name": "Trousseau Ledger",
+  "app.tagline": "Budget the life you're building together — not just the wedding.",
+  "nav.dashboard": "Dashboard",
+  "nav.transactions": "Transactions",
+  "nav.income": "Income",
+  "nav.calendar": "Calendar",
+  "nav.cards": "Credit Cards",
+  "nav.wedding": "Wedding Budget",
+  "nav.home": "Home Setup Budget",
+  "nav.debts": "Debts & Receivables",
+  "nav.reports": "Reports",
+  "nav.assistant": "Finance Assistant",
+  "nav.notifications": "Notifications",
+  "nav.settings": "Settings",
+  "common.save": "Save",
+  "common.cancel": "Cancel",
+  "common.delete": "Delete",
+  "common.edit": "Edit",
+  "common.duplicate": "Duplicate",
+  "common.confirm": "Confirm",
+  "common.undo": "Undo"
+}
