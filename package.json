@@ -1,0 +1,34 @@
+{
+  "name": "ceyiz-defteri",
+  "private": true,
+  "version": "2.1.1",
+  "type": "module",
+  "description": "Çeyiz Defteri — Çift Finans Yönetimi, Düğün Bütçesi ve Ev Kurma Planlayıcısı",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "cap:sync": "npx cap sync"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.45.4",
+    "jspdf": "^2.5.2",
+    "jspdf-autotable": "^3.8.4",
+    "lucide-react": "^0.383.0",
+    "pdfjs-dist": "^4.7.76",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^6.26.2",
+    "recharts": "^2.12.7",
+    "xlsx": "^0.18.5"
+  },
+  "devDependencies": {
+    "@capacitor/android": "^6.1.2",
+    "@capacitor/cli": "^6.1.2",
+    "@capacitor/core": "^6.1.2",
+    "@capacitor/ios": "^6.1.2",
+    "@vitejs/plugin-react": "^4.3.1",
+    "vite": "^5.4.11",
+    "vite-plugin-pwa": "^0.20.5"
+  }
+}

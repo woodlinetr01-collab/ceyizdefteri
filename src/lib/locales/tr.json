@@ -1,0 +1,23 @@
+{
+  "app.name": "Çeyiz Defteri",
+  "app.tagline": "Düğününüzü değil, birlikte kuracağınız hayatı bütçeleyin.",
+  "nav.dashboard": "Panel",
+  "nav.transactions": "İşlemler",
+  "nav.income": "Gelirler",
+  "nav.calendar": "Takvim",
+  "nav.cards": "Kredi Kartları",
+  "nav.wedding": "Düğün Bütçesi",
+  "nav.home": "Ev Bütçesi",
+  "nav.debts": "Borç & Alacak",
+  "nav.reports": "Raporlar",
+  "nav.assistant": "Finans Asistanı",
+  "nav.notifications": "Bildirimler",
+  "nav.settings": "Ayarlar",
+  "common.save": "Kaydet",
+  "common.cancel": "Vazgeç",
+  "common.delete": "Sil",
+  "common.edit": "Düzenle",
+  "common.duplicate": "Kopyala",
+  "common.confirm": "Onayla",
+  "common.undo": "Geri Al"
+}
